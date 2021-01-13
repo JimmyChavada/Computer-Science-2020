@@ -1,0 +1,3 @@
+Ceo Name: Kevin Loughrey		Company Name: Thompson Creek Metals Co. Inc.			Salary: 3356000.0$			Tax Owed: 1174600.0$
+Ceo Name: James Balsillie		Company Name: BlackBerry Ltd.			Salary: 415943.0$			Tax Owed: 145580.05$
+Ceo Name: Richard Clark		Company Name: Red Back Mining Inc.			Salary: 3310667.0$			Tax Owed: 1158733.45$

@@ -1,0 +1,6 @@
+Test: Algebra Test 	Test Score: 98%
+Test: Trig Test 	Test Score: 77%
+Test: Functions Test 	Test Score: 45%
+Test: Calculus Test  	Test Score: 88%
+Test: Quadratics Test 	Test Score: 33%
+The average is: 68.2%

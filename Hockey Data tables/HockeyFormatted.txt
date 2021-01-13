@@ -1,0 +1,6 @@
+Name: Gordie How 	Goals: 15
+Name: Art Ross 	Goals: 10
+Name: Auston Matthews 	Goals: 5
+Name: Sydney Crosby 	Goals: 6
+Name: Wayne Gretzky 	Goals: 10
+The average goals is: 9.2

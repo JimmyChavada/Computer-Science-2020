@@ -1,0 +1,3 @@
+Ceo Name: Prem Watsa		Company Name: Fairfax Financial Holdings Ltd.			Salary: 6190000.0$			Tax Owed: 2166500.0$
+Ceo Name: John Shackleton		Company Name: Open Text Corp.			Salary: 4861667.0$			Tax Owed: 1701583.45$
+Ceo Name: John Wright		Company Name: Petrobank Energy and Resources Ltd.			Salary: 4353333.0$			Tax Owed: 1523666.55$

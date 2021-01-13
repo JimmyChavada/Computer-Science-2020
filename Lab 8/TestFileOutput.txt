@@ -1,0 +1,7 @@
+Test: Algebra Test 		 Test Score: 98%		 Class Average: 89.5%
+Test: Integers Test 		 Test Score: 77%		 Class Average: 32.3%
+Test: Functions Test 		 Test Score: 45%		 Class Average: 45.6%
+Test: Calculus Test  		 Test Score: 88%		 Class Average: 75.5%
+Test: Quadratics Test 		 Test Score: 33%		 Class Average: 54.3%
+Test: Vectors Test 		 Test Score: 76%		 Class Average: 84.7%
+The average is: 69.5%
